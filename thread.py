@@ -108,7 +108,7 @@ def process_pdf(pdf_path):
 # Main program
 if __name__ == "__main__":
     # Replace this with the path to your PDF file
-    pdf_path = r"C:\Users\Yogendthira VK\Downloads\Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf"
+    pdf_path = r"entr file path"
 
     # Check if file exists
     if os.path.exists(pdf_path):

@@ -1,0 +1,295 @@
+I'll generate the MCQs for each unit/chapter based on the provided textbook "Object-Oriented Software Construction" by Bertrand Meyer. Here is the output:
+
+**Chapter 1: Introduction**
+
+1. What is object-oriented programming (OOP)?
+A) A programming paradigm that emphasizes procedural programming
+B) A programming paradigm that emphasizes object-oriented programming
+C) A programming paradigm that emphasizes functional programming
+D) A programming paradigm that emphasizes event-driven programming
+
+Answer: B) A programming paradigm that emphasizes object-oriented programming
+
+2. What is the main goal of OOP?
+A) To improve code readability and maintainability
+B) To increase code performance and efficiency
+C) To reduce code complexity and size
+D) To simplify code debugging and testing
+
+Answer: A) To improve code readability and maintainability
+
+3. What is a key characteristic of objects in OOP?
+A) They are collections of procedures that perform specific tasks
+B) They are instances of classes with shared attributes and behavior
+C) They are separate programs that communicate with each other
+D) They are reusable code modules with minimal dependencies
+
+Answer: B) They are instances of classes with shared attributes and behavior
+
+4. What is the benefit of using inheritance in OOP?
+A) To increase code duplication and redundancy
+B) To reduce code complexity and improve maintainability
+C) To improve code performance and efficiency
+D) To simplify code debugging and testing
+
+Answer: B) To reduce code complexity and improve maintainability
+
+5. What is a class in OOP?
+A) A blueprint or template for creating objects
+B) An instance of an object with shared attributes and behavior
+C) A collection of procedures that perform specific tasks
+D) A separate program that communicates with other programs
+
+Answer: A) A blueprint or template for creating objects
+
+**Chapter 2: Classes**
+
+1. What is a class in OOP?
+A) A set of procedures that perform specific tasks
+B) An instance of an object with shared attributes and behavior
+C) A blueprint or template for creating objects
+D) A separate program that communicates with other programs
+
+Answer: C) A blueprint or template for creating objects
+
+2. What is the purpose of a class?
+A) To create instances of objects with specific properties and behaviors
+B) To define procedures that perform specific tasks
+C) To group related data and behavior together
+D) To simplify code debugging and testing
+
+Answer: C) To group related data and behavior together
+
+3. What is an instance of a class in OOP?
+A) A new class with its own set of attributes and behavior
+B) An existing class with the same properties and behavior as another class
+C) A separate program that communicates with other programs
+D) A collection of procedures that perform specific tasks
+
+Answer: B) An existing class with the same properties and behavior as another class
+
+4. What is a constructor in OOP?
+A) A procedure that creates new objects with default values
+B) A procedure that destroys existing objects
+C) A procedure that updates object attributes
+D) A separate program that communicates with other programs
+
+Answer: A) A procedure that creates new objects with default values
+
+5. What is the benefit of using inheritance in OOP?
+A) To increase code duplication and redundancy
+B) To reduce code complexity and improve maintainability
+C) To improve code performance and efficiency
+D) To simplify code debugging and testing
+
+Answer: B) To reduce code complexity and improve maintainability
+
+**Chapter 3: Objects**
+
+1. What is an object in OOP?
+A) A collection of procedures that perform specific tasks
+B) An instance of a class with shared attributes and behavior
+C) A separate program that communicates with other programs
+D) A blueprint or template for creating objects
+
+Answer: B) An instance of a class with shared attributes and behavior
+
+2. What is the purpose of an object?
+A) To store data and perform operations on it
+B) To group related data and behavior together
+C) To create new classes with specific properties and behaviors
+D) To simplify code debugging and testing
+
+Answer: A) To store data and perform operations on it
+
+3. What is the main characteristic of an object in OOP?
+A) It has its own set of attributes and behavior
+B) It inherits from another class or object
+C) It communicates with other programs or objects
+D) It is a separate program that performs specific tasks
+
+Answer: A) It has its own set of attributes and behavior
+
+4. What is the benefit of using objects in OOP?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: B) To improve code readability and maintainability
+
+5. How do objects communicate with each other?
+A) Through separate programs or interfaces
+B) Through shared data and behavior
+C) Through procedures or functions
+D) Through events or signals
+
+Answer: B) Through shared data and behavior
+
+**Chapter 4: Inheritance**
+
+1. What is inheritance in OOP?
+A) The process of creating new classes from existing ones
+B) The process of destroying existing objects
+C) The process of updating object attributes
+D) The process of simplifying code debugging and testing
+
+Answer: A) The process of creating new classes from existing ones
+
+2. What is the purpose of inheritance?
+A) To reduce code complexity and improve maintainability
+B) To increase code duplication and redundancy
+C) To improve code performance and efficiency
+D) To simplify code debugging and testing
+
+Answer: A) To reduce code complexity and improve maintainability
+
+3. What is a parent class in OOP?
+A) A class that inherits from another class or object
+B) A class that creates new classes with specific properties and behaviors
+C) A separate program that communicates with other programs or objects
+D) A collection of procedures that perform specific tasks
+
+Answer: A) A class that inherits from another class or object
+
+4. What is a child class in OOP?
+A) A class that inherits from another class or object
+B) A class that creates new classes with specific properties and behaviors
+C) A separate program that communicates with other programs or objects
+D) A collection of procedures that perform specific tasks
+
+Answer: B) A class that creates new classes with specific properties and behaviors
+
+5. What is the benefit of using inheritance in OOP?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: C) To reduce code duplication and redundancy
+
+**Chapter 5: Polymorphism**
+
+1. What is polymorphism in OOP?
+A) The ability of an object to take on multiple forms or behaviors
+B) The ability of a class to inherit from another class or object
+C) The ability of a program to communicate with other programs or objects
+D) The ability of code to simplify debugging and testing
+
+Answer: A) The ability of an object to take on multiple forms or behaviors
+
+2. What is the purpose of polymorphism?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: B) To improve code readability and maintainability
+
+3. What is method overriding in OOP?
+A) The ability of a class to override the behavior of another class or object
+B) The ability of an object to take on multiple forms or behaviors
+C) The ability of a program to communicate with other programs or objects
+D) The ability of code to simplify debugging and testing
+
+Answer: A) The ability of a class to override the behavior of another class or object
+
+4. What is method overloading in OOP?
+A) The ability of a class to take on multiple forms or behaviors
+B) The ability of an object to inherit from another class or object
+C) The ability of a program to communicate with other programs or objects
+D) The ability of code to simplify debugging and testing
+
+Answer: A) The ability of a class to take on multiple forms or behaviors
+
+5. What is the benefit of using polymorphism in OOP?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: B) To improve code readability and maintainability
+
+**Chapter 6: Encapsulation**
+
+1. What is encapsulation in OOP?
+A) The ability of an object to hide its internal details from the outside world
+B) The ability of a class to inherit from another class or object
+C) The ability of a program to communicate with other programs or objects
+D) The ability of code to simplify debugging and testing
+
+Answer: A) The ability of an object to hide its internal details from the outside world
+
+2. What is the purpose of encapsulation?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: B) To improve code readability and maintainability
+
+3. What is data hiding in OOP?
+A) The ability of an object to hide its internal details from the outside world
+B) The ability of a class to inherit from another class or object
+C) The ability of a program to communicate with other programs or objects
+D) The ability of code to simplify debugging and testing
+
+Answer: A) The ability of an object to hide its internal details from the outside world
+
+4. What is access control in OOP?
+A) The ability of an object to control who can access its internal details
+B) The ability of a class to inherit from another class or object
+C) The ability of a program to communicate with other programs or objects
+D) The ability of code to simplify debugging and testing
+
+Answer: A) The ability of an object to control who can access its internal details
+
+5. What is the benefit of using encapsulation in OOP?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: B) To improve code readability and maintainability
+
+**Chapter 7: Abstraction**
+
+1. What is abstraction in OOP?
+A) The ability of an object to hide its internal details from the outside world
+B) The ability of a class to inherit from another class or object
+C) The ability of a program to communicate with other programs or objects
+D) The ability of code to simplify debugging and testing
+
+Answer: A) The ability of an object to hide its internal details from the outside world
+
+2. What is the purpose of abstraction?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: B) To improve code readability and maintainability
+
+3. What is the concept of interface in OOP?
+A) A contract or agreement between classes that specify their behavior
+B) An object that inherits from another class or object
+C) A program that communicates with other programs or objects
+D) A piece of code that simplifies debugging and testing
+
+Answer: A) A contract or agreement between classes that specify their behavior
+
+4. What is the concept of abstract class in OOP?
+A) A class that inherits from another class or object
+B) An interface that specifies the behavior of a class
+C) A program that communicates with other programs or objects
+D) A piece of code that simplifies debugging and testing
+
+Answer: B) An interface that specifies the behavior of a class
+
+5. What is the benefit of using abstraction in OOP?
+A) To increase code complexity and size
+B) To improve code readability and maintainability
+C) To reduce code duplication and redundancy
+D) To simplify code debugging and testing
+
+Answer: B) To improve code readability and maintainability
