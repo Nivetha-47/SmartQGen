@@ -40,7 +40,7 @@ def generate_mcqs_from_pdf(input_pdf, output_file):
         logger.info("Initializing Llama model...")
         llama_llm = ChatOllama(model="llama3.2")
 
-        # Step 3: Create the prompt template
+
         template = """
      SYSTEM INSTRUCTION:
 You are an MCQ generator that MUST process ALL chapters in sequence. You cannot stop until all chapters are complete. After each chapter, you must explicitly continue to the next one.
